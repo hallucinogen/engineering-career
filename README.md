@@ -1,2 +1,87 @@
-# engineering-career
-How to grow engineering career
+# How to grow engineering career
+
+
+- Growing engineering career
+  - Get the skill
+    - Learn technical skill (https://roadmap.sh/)
+    - Learn fundamentals:
+    - Learn how to learn
+      - Start from the middle + applicable skill
+      - Go down to fundamentals
+      - Then go horizontal to adjacent skills
+    - Learn how to be efficient
+    - Learn how to collect knowledge
+      - Twitter
+      - Medium/Substack
+      - Youtube
+  - Get the job
+    - Self-promotion skill
+      - LinkedIn
+      - Resume
+      - Public branding
+      - Private branding
+    - Interviewing skill
+      - Take home test
+      - HR interview
+      - Live coding
+      - System design
+      - Behavior
+    - Choosing the right company
+    - Salary/Compensation negotiation
+  - Grow in the job
+    - Career ladder
+    - Choosing the right manager
+    - Choosing the right team
+        - What’s a good engineer look like?
+        - What’s a good PM look like?
+        - What’s a good QA look like?
+        - What’s a good designer look like?
+    - First 90 days on the job
+    - Managing people
+      - Manage down
+      - Manage up (managing your manager)
+      - Manage stakeholders
+    - Deliver impacts
+      - Business metrics
+      - Product metrics
+      - Engineering metrics
+      - Brag document
+    - How to get recognition
+      - Manager
+      - Sponsor
+      - Manager of manager
+      - Peer
+      - Writing
+    - Building social capital
+    - Know when to move
+  - Tools
+    - Interview toolsets
+      - DSA Coding
+      - Frontend coding
+      - System design
+      - Product design
+      - Frontend system design
+      - Mobile system design
+      - Behavior
+      - HR interviews
+      - Marketing yourself
+      - Salary negotiation
+    - 1:1 discussion
+        - Asking for regular 1:1
+        - Career discussion
+        - Updates
+        - Asking for promotion
+        - Asking for opportunities
+        - Unblocking yourself
+    - Curated headhunters
+    - Curated remote positions
+    - Templates:
+        - Resume
+        - Bragging documents
+        - Personal weekly updates
+        - Team weekly updates
+        - Product strategy document
+        - Engineering strategy document
+        - Ultimate list of  product metrics
+        - Ultimate list of engineering metrics
+        - Notion template to get yourself organized
